@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=io24m&layout=compact" />
+
 - 🔭 I’m currently working on CRHMS.
 - 📫 How to reach me: E-mail.
 - ⚡ Fun fact: Coding is my passion.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=io24m&layout=compact" />
-
 
 <!--
 **io24m/io24m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
