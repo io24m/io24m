@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on CRHMS.
 - 📫 How to reach me: E-mail.
 - ⚡ Fun fact: Coding is my passion.
-- 😄 [io24m.github.io](io24m.github.io)
+- 😄 [io24m.github.io](https://io24m.github.io/)
 <!--
 **io24m/io24m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
